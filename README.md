@@ -74,14 +74,12 @@ ejb-sales-dashboard-excel/
 ├─ LICENSE
 ├─ .gitignore
 ├─ deliverables/
-│  └─ Sarosh_Jawed_IS853_Assignment5_EJB_Dashboard.xlsx
-├─ docs/
-│  ├─ methodology.md
-│  └─ screenshots/
-│     ├─ dashboard.png
-│     ├─ sales-by-center.png
-│     ├─ sales-by-products.png
-│     ├─ delivery-time.png
-│     └─ sales-by-flavor.png
-└─ assets/
-   └─ cover-image.png
+│  └─ Sarosh_Jawed_Assignment5_EJB_Dashboard.xlsx
+└─ docs/
+   ├─ methodology.md
+   └─ screenshots/
+      ├─ dashboard.png
+      ├─ sales-by-center.png
+      ├─ sales-by-products.png
+      ├─ delivery-time.png
+      └─ sales-by-flavor.png
