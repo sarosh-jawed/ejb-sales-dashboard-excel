@@ -1,0 +1,19 @@
+# Excel temporary files
+~$*.xlsx
+~$*.xlsm
+~$*.xls
+
+# Windows system files
+Thumbs.db
+Desktop.ini
+
+# macOS system files
+.DS_Store
+
+# Temporary and backup files
+*.tmp
+*.bak
+*.swp
+
+# Optional exported files
+*.log
